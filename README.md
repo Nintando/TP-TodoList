@@ -17,6 +17,4 @@ Installer les dépendances
 Lancer l'application
 
 `npm start`
-#� �T�P�-�T�o�d�o�L�i�s�t�
-�
-�"# TP-TodoList" 
+
