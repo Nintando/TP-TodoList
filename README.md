@@ -1,7 +1,5 @@
 # App TodoList (BTC 24.1)
 
-Application de TodoList pour apprendre les bases de **ReactJs**
-
 ## Installation
 
 Récupérer le repo via la commande suivante dans votre terminal :
