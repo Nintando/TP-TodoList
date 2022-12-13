@@ -8,7 +8,7 @@ Récupérer le repo via la commande suivante dans votre terminal :
 
 Une fois récupéré se positionner dans le répertoire de l'application
 
-`cd BTC-TodoList`
+`cd TP-TodoList`
 
 Installer les dépendances
 
